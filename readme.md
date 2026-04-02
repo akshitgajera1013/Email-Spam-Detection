@@ -31,26 +31,25 @@ Once the text is vectorized, it is passed through a **Random Forest Classifier**
 
 ## 📂 Repository Structure
 
-├── app.py                  # Main Python application interface
-├── rf_model.pkl            # Serialized Random Forest Classifier
-├── tfidf_vectorizer.pkl    # Serialized NLP Vectorizer
-├── requirements.txt        # Package dependencies
-└── README.md               # System documentation
+    ├── app.py                  # Main Python application interface
+    ├── rf_model.pkl            # Serialized Random Forest Classifier
+    ├── tfidf_vectorizer.pkl    # Serialized NLP Vectorizer
+    ├── requirements.txt        # Package dependencies
+    └── README.md               # System documentation
 
 
 
 ⚙️ Installation & Deployment
-
 1. Clone the Repository
 
-git clone [https://github.com/akshitgajera1013/Email-Spam_Detection.git](https://github.com/akshitgajera1013/Email-Spam_Detection.git)
+      git clone [https://github.com/akshitgajera1013/Email-Spam_Detection.git](https://github.com/akshitgajera1013/Email-Spam_Detection.git)
 
-cd Email-Spam_Detection
+      cd Email-Spam_Detection
 
-2. Install Dependencies
+3. Install Dependencies
 
-pip install -r requirements.txt
+      pip install -r requirements.txt
 
 3. Initialize the Security Terminal
 
-python -m streamlit run app.py
+    python -m streamlit run app.py
