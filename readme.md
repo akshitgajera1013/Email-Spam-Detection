@@ -55,3 +55,10 @@ Once the text is vectorized, it is passed through a **Random Forest Classifier**
 3. Initialize the Security Terminal
 
     python -m streamlit run app.py
+
+
+👨‍💻 Author
+
+Akshit Gajera
+
+Aspiring Data Scientist | Machine Learning Enthusiast
