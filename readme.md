@@ -1,5 +1,7 @@
 # 🛡️ InboxSecure: Mail Spam Detection Terminal
 
+Deployment Link :- https://email-spam-detection-clzdafssvadmmcvo5bceav.streamlit.app/
+
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
 ![NLP](https://img.shields.io/badge/NLP-TF--IDF-orange?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Model-Random%20Forest-purple?style=for-the-badge)
